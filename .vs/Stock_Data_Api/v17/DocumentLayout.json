@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\controllers\\iotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\controllers\\iotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|c:\\users\\lenovo\\desktop\\projet_stock\\stock_data_api\\stock_data_api\\controllers\\hangefirecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\controllers\\hangefirecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\models\\sell\\articlesinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\models\\sell\\articlesinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\models\\sell\\chequeofmodesell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\models\\sell\\chequeofmodesell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\models\\sell\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\models\\sell\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\models\\sell\\invoicesell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\models\\sell\\invoicesell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\models\\frequent entiities\\tabarticles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\models\\frequent entiities\\tabarticles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\models\\commons\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\models\\commons\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\migrations\\20240713180250_updatetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\migrations\\20240713180250_updatetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\dto\\invoiceselldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\dto\\invoiceselldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\models\\commons\\supplierclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\models\\commons\\supplierclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\controllers\\markcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\controllers\\markcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\controllers\\outherfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\controllers\\outherfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\stock_data_api\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:stock_data_api\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Migrations\\20240713222600_updateTablesssfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:Stock_Data_Api\\Migrations\\20240713222600_updateTablesssfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Migrations\\20240713193901_updateTablesssf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:Stock_Data_Api\\Migrations\\20240713193901_updateTablesssf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Migrations\\20240713183418_updateTabless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:Stock_Data_Api\\Migrations\\20240713183418_updateTabless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Migrations\\20240713184609_updateTablesss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F531C1C-C267-40F6-8E29-F79C7E91C8CA}|Stock_Data_Api\\Stock_Data_Api.csproj|solutionrelative:Stock_Data_Api\\Migrations\\20240713184609_updateTablesss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HangeFireController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Controllers\\HangeFireController.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Controllers\\HangeFireController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Controllers\\HangeFireController.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Controllers\\HangeFireController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T22:14:19.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChequeOfModeSell.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Models\\Sell\\ChequeOfModeSell.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Models\\Sell\\ChequeOfModeSell.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Models\\Sell\\ChequeOfModeSell.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Models\\Sell\\ChequeOfModeSell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:51:25.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Stock_Data_Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T19:41:25.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Program.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Program.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:49:30.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Controllers\\SellerController.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Controllers\\SellerController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Controllers\\SellerController.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Controllers\\SellerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T23:16:04.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOTController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Controllers\\IOTController.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Controllers\\IOTController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Controllers\\IOTController.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Controllers\\IOTController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T23:16:15.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\appsettings.json",
+              "RelativeToolTip": "Stock_Data_Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T22:16:28.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Controllers\\ArticlesController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwDYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T23:16:21.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticlesInfo.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Models\\Sell\\ArticlesInfo.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Models\\Sell\\ArticlesInfo.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Models\\Sell\\ArticlesInfo.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Models\\Sell\\ArticlesInfo.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:43:24.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Controllers\\InvoiceController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwDMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:14:14.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvoiceSell.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Models\\Sell\\InvoiceSell.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Models\\Sell\\InvoiceSell.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Models\\Sell\\InvoiceSell.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Models\\Sell\\InvoiceSell.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:32:21.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TabArticles.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Models\\Frequent Entiities\\TabArticles.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Models\\Frequent Entiities\\TabArticles.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Models\\Frequent Entiities\\TabArticles.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Models\\Frequent Entiities\\TabArticles.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:36:13.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Models\\Sell\\Client.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Models\\Sell\\Client.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Models\\Sell\\Client.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Models\\Sell\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:46:20.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240713222600_updateTablesssfs.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Migrations\\20240713222600_updateTablesssfs.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Migrations\\20240713222600_updateTablesssfs.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Migrations\\20240713222600_updateTablesssfs.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Migrations\\20240713222600_updateTablesssfs.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:26:01.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240713193901_updateTablesssf.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Migrations\\20240713193901_updateTablesssf.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Migrations\\20240713193901_updateTablesssf.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Migrations\\20240713193901_updateTablesssf.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Migrations\\20240713193901_updateTablesssf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T19:39:02.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Models\\Commons\\Invoice.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Models\\Commons\\Invoice.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Models\\Commons\\Invoice.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Models\\Commons\\Invoice.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:35:34.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240713183418_updateTabless.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Migrations\\20240713183418_updateTabless.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Migrations\\20240713183418_updateTabless.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Migrations\\20240713183418_updateTabless.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Migrations\\20240713183418_updateTabless.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:34:19.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240713184609_updateTablesss.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Migrations\\20240713184609_updateTablesss.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Migrations\\20240713184609_updateTablesss.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Migrations\\20240713184609_updateTablesss.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Migrations\\20240713184609_updateTablesss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:46:09.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240713180250_updateTables.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Migrations\\20240713180250_updateTables.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Migrations\\20240713180250_updateTables.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Migrations\\20240713180250_updateTables.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Migrations\\20240713180250_updateTables.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:02:51.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Data\\DataDbContext.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Data\\DataDbContext.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Data\\DataDbContext.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Data\\DataDbContext.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA8wC4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:53:00.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SupplierClient.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Models\\Commons\\SupplierClient.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Models\\Commons\\SupplierClient.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Models\\Commons\\SupplierClient.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Models\\Commons\\SupplierClient.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:49:13.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InvoiceSellDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\DTO\\InvoiceSellDto.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\DTO\\InvoiceSellDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\DTO\\InvoiceSellDto.cs",
+              "RelativeToolTip": "Stock_Data_Api\\DTO\\InvoiceSellDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:30:54.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MarkController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Controllers\\MarkController.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Controllers\\MarkController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Controllers\\MarkController.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Controllers\\MarkController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T23:16:14.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OutherFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Controllers\\OutherFunctions.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Controllers\\OutherFunctions.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Controllers\\OutherFunctions.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Controllers\\OutherFunctions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T23:16:13.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Stock_Data_Api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAqwOoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:16:54.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "Stock_Data_Api\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\projet_stock\\Stock_Data_Api\\Stock_Data_Api\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "Stock_Data_Api\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-25T19:59:49.703Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

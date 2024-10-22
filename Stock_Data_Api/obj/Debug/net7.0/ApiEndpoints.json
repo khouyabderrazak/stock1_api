@@ -1,0 +1,508 @@
+[
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.ArticlesController",
+    "Method": "GetAllArticles",
+    "RelativePath": "api/Articles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.ArticlesController",
+    "Method": "AddArticle",
+    "RelativePath": "api/Articles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.ArticlesController",
+    "Method": "UpdateArticle",
+    "RelativePath": "api/Articles",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "article",
+        "Type": "Stock_Data_Api.Models.Inventory.Article",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.ArticlesController",
+    "Method": "GetArticleById",
+    "RelativePath": "api/Articles/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.ArticlesController",
+    "Method": "DeleteArticle",
+    "RelativePath": "api/Articles/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.ArticlesController",
+    "Method": "AddImage",
+    "RelativePath": "api/Articles/AddImage/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.ArticlesController",
+    "Method": "DeleteImage",
+    "RelativePath": "api/Articles/deleteImage/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.AssociatedDocsController",
+    "Method": "UploadAssociatedDocs",
+    "RelativePath": "api/AssociatedDocs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.ClientController",
+    "Method": "GetClients",
+    "RelativePath": "api/Client",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.ClientController",
+    "Method": "AddClients",
+    "RelativePath": "api/Client",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.GroupArticlesController",
+    "Method": "addGroupArticles",
+    "RelativePath": "api/GroupArticles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.GroupArticlesController",
+    "Method": "getAllGroupsArticles",
+    "RelativePath": "api/GroupArticles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.GroupArticlesController",
+    "Method": "getAllGroupsArticles",
+    "RelativePath": "api/GroupArticles/getGroupArticlesById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.HangeFireController",
+    "Method": "reccuring",
+    "RelativePath": "api/HangeFire/reccuring",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.HangeFireController",
+    "Method": "send",
+    "RelativePath": "api/HangeFire/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.HangeFireController",
+    "Method": "shedule",
+    "RelativePath": "api/HangeFire/shedule",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.InvoiceController",
+    "Method": "AddInvoice",
+    "RelativePath": "api/Invoice",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "invoice",
+        "Type": "Stock_Data_Api.Models.Sell.InvoiceSell",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.InvoiceController",
+    "Method": "getInvoices",
+    "RelativePath": "api/Invoice",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.InvoiceController",
+    "Method": "getInvoice",
+    "RelativePath": "api/Invoice/signleInvoice/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.IOTController",
+    "Method": "GetData",
+    "RelativePath": "api/IOT/{parametre1}/{parametre2}/{parametre3}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parametre1",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "parametre2",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "parametre3",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.ManufacturerController",
+    "Method": "getAllManufatures",
+    "RelativePath": "api/Manufacturer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.MarkController",
+    "Method": "GetAllMarks",
+    "RelativePath": "api/Mark",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.PaymentConditionsController",
+    "Method": "GetPaymentConditions",
+    "RelativePath": "api/PaymentConditions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.SellerController",
+    "Method": "GetSellers",
+    "RelativePath": "api/Seller",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.SupplierController",
+    "Method": "getAllSuppliers",
+    "RelativePath": "api/Supplier",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.TaxController",
+    "Method": "GetTaxes",
+    "RelativePath": "api/Tax",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Stock_Data_Api.Models.Tax, Stock_Data_Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.TaxController",
+    "Method": "AddTax",
+    "RelativePath": "api/Tax",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tax",
+        "Type": "Stock_Data_Api.Models.Tax",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.UnitController",
+    "Method": "getAllUnites",
+    "RelativePath": "api/Unit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.UploadFilesController",
+    "Method": "Upload",
+    "RelativePath": "api/UploadFiles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.UploadFilesController",
+    "Method": "DownLoadFile",
+    "RelativePath": "api/UploadFiles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.UploadFilesController",
+    "Method": "DeleteImage",
+    "RelativePath": "api/UploadFiles/{name}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.UserController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.UserController",
+    "Method": "Authenticate",
+    "RelativePath": "api/User/authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Stock_Data_Api.Models.UserDAO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.UserController",
+    "Method": "isEmailAlreadyExist",
+    "RelativePath": "api/User/isEmailAlreadyExist",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.UserController",
+    "Method": "Refresh",
+    "RelativePath": "api/User/refresh",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tokenApiDto",
+        "Type": "Stock_Data_Api.Models.Dto.TokenApiDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.UserController",
+    "Method": "RegisterUser",
+    "RelativePath": "api/User/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Stock_Data_Api.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Stock_Data_Api.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Stock_Data_Api.Models.Sell.PaymentSell, Stock_Data_Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
